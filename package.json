@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-string-module-loader",
-  "version": "0.0.4",
+  "version": "0.4.1",
   "description": "Fork of ember-cli/loader.js",
   "main": "lib/loader/loader.js",
   "directories": {
